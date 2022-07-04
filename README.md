@@ -5,4 +5,5 @@ Welcome to my little corner of the internet! I hope you enjoy getting to know a 
 
 I look forward to getting to know you and to share a bit of myself with you. I hope you have a great day!
 
-![Alt text](/assets/images/PortSC.png "Portfolio page screenshot") 
+![Alt text](/assets/images/PortSC.png "Portfolio page screenshot")
+https://jasonsin88.github.io/portfolio/
