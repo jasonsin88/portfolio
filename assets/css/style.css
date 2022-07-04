@@ -134,7 +134,9 @@ h2 {
   .contactme ul {
     flex-direction: column;
   }
+}
 
+@media screen and (max-width: 576px) {
   .Work2 {
     flex: 1 1;
     width: 100%;
